@@ -2,7 +2,7 @@
 <h1>How to Install Windows 10 on Virtual Box</h1>
 
 Virtual Box is kind of a hypervisor that provides us with an environment to run multiple virtual operating systems like Windows, Linux, etc at the same time. A virtual operating system provides us free to use the operating system free of cost to test our newly created software before running it on our actual operating system. If not for virtualization, we would have been required to buy a new computer to run a new operating system which would have been costly. But with virtualization, we can run multiple operating systems on the same machine. Here we will try to run a Windows 10 operating system on our Virtual Box as a guest machine.  
-<strong>Step 1: Downloading Virtual Box</strong>
+<p><strong>Step 1: Downloading Virtual Box</strong></p>
 Download Virtual box from here. Select your host according to your operating system. For example, people having Windows Host will select Windows hosts from the link given below. For further reference, the installation of virtual box on windows can be understood.
 
 
