@@ -28,16 +28,16 @@ Then leave the Hard disk file type as VDI</p>
 <p><img src="WB5.png"></p> 
  
 Then select the virtual hard disk size. We selected here 50GB. You can select according to your CPU space available.
- 
+ <p><img src="WB6.png"></p>
  
 <p><strong>Step 4: Sharing the Location of the ISO File of Windows 10.</srong></p>
 
 Go to Settings->Storage->Click on “Empty” under “Controller” choose the CD icon and then click on “choose a disk file”. Browse to the location where you have downloaded the Windows 10 ISO file. Copy the location and paste it.
 Once this is done, other settings can be changed also or can be kept default.
-<p><img src="WB5.png"></p> 
  
-Browse to the location where you have downloaded the Windows 10 ISO file and select it so that Windows 10 gets installed on VirtualBox.
- 
+<p><img src="WB7.png"></p>  
+<p>Browse to the location where you have downloaded the Windows 10 ISO file and select it so that Windows 10 gets installed on VirtualBox.</p>
+<p><img src="WB8.png"></p>
  
 <p><strong>Step 5: Running Windows on Virtual Box</strong></p>
 That is Windows 10 has been installed on the Virtual Machine. You can now open the Windows 10 operating system in VM. Set up a new username and password and use Windows 10 in VM for various purposes.
