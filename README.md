@@ -16,9 +16,9 @@ Virtual Box is kind of a hypervisor that provides us with an environment to run 
  
 After the download has been completed, it will be stored in your Downloads folder on This Computer.
 <p><strong>Step 3: Installation of Windows 10 in Virtual Box.</strong></p>
-Start the installation of the Windows 10 operating system. Select a name, then the type as MS Windows and the version as Windows 10(64-bit) with respect to the machine used. Then provide memory according to our RAM size preferably 2-4GB and then leave the Hard disk file type as VDI, then select the virtual hard disk size, and you are done as shown below
+<p>Start the installation of the Windows 10 operating system. Select a name, then the type as MS Windows and the version as Windows 10(64-bit) with respect to the machine used. Then provide memory according to our RAM size preferably 2-4GB and then leave the Hard disk file type as VDI, then select the virtual hard disk size, and you are done as shown below</p>
 
-<p><img src="WB3.jpg"></p>
+<p><img src="WB3.png"></p>
 Then provide memory according to our RAM size preferably 2-4GB. We have selected here 1GB which is 1024MB for demonstration purposes but on your computer, we would prefer to allocate at least 2048MB of memory.
  
  
